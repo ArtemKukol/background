@@ -1,0 +1,14 @@
+body {
+   font: 18px/1.5 sans-serif;
+   
+   color: #181818;
+   background-color: #ffeb3b;
+ }
+ 
+ .bg-green {
+   background-color: #4caf50;
+ }
+ 
+ .color-white {
+   color: white;
+ }
